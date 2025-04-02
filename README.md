@@ -30,3 +30,40 @@ Soluciones a la Tarea 3 de Algoritmos y Estructuras.
 
 ## Instrucciones
 - Ejecutar: `python EjercicioX/main.py`.
+
+# Tarea X - Algoritmos y Estructuras
+
+Soluciones a la Tarea X de Algoritmos y Estructuras.
+
+## Estructura del Repositorio
+
+```mermaid
+graph TD
+    A[Algoritmos-y-Estructuras-TareaX/] --> B[README.md]
+    A --> C[Ejercicio1/]
+    A --> D[Ejercicio2/]
+    A --> E[Ejercicio3/]
+    A --> F[Ejercicio4/]
+    
+    C --> C1[__init__.py]
+    C --> C2[hanoi.py]
+    C --> C3[main.py]
+    
+    D --> D1[__init__.py]
+    D --> D2[determinante_recursivo.py]
+    D --> D3[determinante_iterativo.py]
+    D --> D4[main.py]
+    
+    E --> E1[__init__.py]
+    E --> E2[nave.py]
+    E --> E3[ejecucion.py]
+    E --> E4[main.py]
+    
+    F --> F1[__init__.py]
+    F --> F2[nodo.py]
+    F --> F3[polinomio.py]
+    F --> F4[resta.py]
+    F --> F5[division.py]
+    F --> F6[eliminar.py]
+    F --> F7[existe.py]
+    F --> F8[main.py]
