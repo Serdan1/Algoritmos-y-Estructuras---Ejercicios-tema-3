@@ -11,14 +11,17 @@ Soluciones a la Tarea 3 de Algoritmos y Estructuras.
 - **Ejercicio1/**:
   - `hanoi.py`: Función recursiva de la Torre de Hanói.
   - `main.py`: Ejecuta el puzzle.
+  - `__init__.py`
 - **Ejercicio2/**:
   - `determinante_recursivo.py`: Método recursivo para el determinante.
   - `determinante_iterativo.py`: Método iterativo para el determinante.
   - `main.py`: Ejecuta ambos métodos.
+  - `__init__.py`
 - **Ejercicio3/**:
   - `nave.py`: Clase Nave.
   - `ejecucion.py`: Implementaciones con Quicksort y tareas.
   - `main.py`: Ejecuta las tareas.
+  - `__init__.py`
 - **Ejercicio4/**:
   - `nodo.py`: Clase Nodo para términos.
   - `polinomio.py`: Clase Polinomio.
@@ -27,6 +30,7 @@ Soluciones a la Tarea 3 de Algoritmos y Estructuras.
   - `eliminar.py`: Eliminar un término.
   - `existe.py`: Verificar existencia de un término.
   - `main.py`: Ejecuta todas las operaciones.
+  - `__init__.py`
 
 ## Instrucciones
 - Ejecutar: `python EjercicioX/main.py`.
