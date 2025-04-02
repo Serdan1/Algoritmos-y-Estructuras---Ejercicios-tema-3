@@ -31,9 +31,6 @@ Soluciones a la Tarea 3 de Algoritmos y Estructuras.
 ## Instrucciones
 - Ejecutar: `python EjercicioX/main.py`.
 
-# Tarea X - Algoritmos y Estructuras
-
-Soluciones a la Tarea X de Algoritmos y Estructuras.
 
 ## Estructura del Repositorio
 
